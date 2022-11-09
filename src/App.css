@@ -1,0 +1,26 @@
+/* Global */
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* custom */
+
+img.small {
+  border-radius: 5px;
+  max-height: 10rem;
+}
+
+.badge {
+  top: 10px;
+  right: -10px;
+}
+
+.bi-shop {
+  font-size: 90px;
+}
